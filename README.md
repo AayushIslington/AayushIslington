@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aayush 
-- 👀 I’m interested in Backend web developement in Django 
+- 👀 I’m interested in Web Developement in Django 
 - 🌱 I’m currently working as a Academic Tutor & Full-Stack Developer @Islington College 
 - 📫 How to reach me:
   email me at: aayush.pandey@islingtoncollege.edu.np
